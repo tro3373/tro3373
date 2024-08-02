@@ -14,16 +14,21 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=linux,docker,terraform,aws,gcp,java,maven,gradle,jenkins,html,css,js,nodejs,ts,react,nextjs,vue,nuxt,angular,jest,jquery,go,kotlin,py,django,fastapi,ruby,rails,mysql" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=bash,linux,docker,terraform,aws,gcp,java,maven,gradle,jenkins,html,css,js,nodejs,ts,react,nextjs,vue,nuxt,angular,jest,jquery,go,kotlin,flutter,py,django,fastapi,ruby,rails,mysql,git,vim,neovim" />
 <br>
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tro3373&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tro3373&theme=vue-dark&layout=compact" />
+## Activities
+<div align="left">
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tro3373&theme=tokyonight&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tro3373&theme=tokyonight&layout=compact" />
+  <!-- <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tro3373&theme=tokyonight" /> -->
+  <!-- http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}   -->
+  <!-- http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude} -->
+  <!-- http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}                                  -->
+  <!-- http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset} -->
 </div>
 
 
