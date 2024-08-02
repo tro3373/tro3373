@@ -22,13 +22,13 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## Activities
 <div align="left">
+
+[![](https://raw.githubusercontent.com/tro3373/tro3373/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tro3373/tro3373/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tro3373/tro3373/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/tro3373/tro3373/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tro3373/tro3373/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=tro3373&theme=tokyonight&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tro3373&theme=tokyonight&layout=compact" />
-  <!-- <img alt="github stats" height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tro3373&theme=tokyonight" /> -->
-  <!-- http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}   -->
-  <!-- http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude} -->
-  <!-- http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}                                  -->
-  <!-- http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset} -->
 </div>
 
 
