@@ -2,6 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=tro3373" />
 </div>
 
+<!--
+# TODO
+
+- GitHubProfileのページを可能な限りキラキラさせる方法
+    - https://zenn.dev/yutakatay/articles/kirakira-github-profile
+-->
 
 ## Hi, I'm tro3373
 
