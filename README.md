@@ -3,9 +3,10 @@
 </div>
 
 
-## Hi
+## Hi, I'm tro3373
 
-- I'm a back-end engineer, but I also work on infrastructure and front-end.
+- I'm primarily a backend engineer.
+- I also like infrastructure and find it fun to automate things.
 - Simple is the best.
 
 
@@ -32,21 +33,5 @@
 ## Skills
 <img alt="skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=bash,linux,docker,terraform,aws,gcp,java,maven,gradle,jenkins,html,css,js,nodejs,ts,react,nextjs,vue,nuxt,angular,jest,jquery,go,kotlin,flutter,py,django,fastapi,ruby,rails,mysql,git,vim,neovim" />
 <br>
-
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
